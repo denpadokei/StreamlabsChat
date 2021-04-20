@@ -1,7 +1,7 @@
 # StreamlabsChat
 StreamlabsのコメントをなんやかんやするMOD
 # 使い方  
-https://streamlabs.com/dashboard#/chatbox
+https://streamlabs.com/dashboard#/chatbox  
 StreamLabsのチャットを表示するとこに「Enable CustomHTML/CSS」の項目があるのでEnableにする  
 ![image](https://user-images.githubusercontent.com/55026301/115442439-fa91b780-a24c-11eb-8c17-3a6ccaacd523.png)
   
