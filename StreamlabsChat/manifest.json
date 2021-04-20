@@ -2,12 +2,13 @@
   "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
   "id": "StreamlabsChat",
   "name": "StreamlabsChat",
-  "author": "",
+  "author": "denpadokei",
   "version": "0.0.1",
   "description": "",
-  "gameVersion": "1.11.1",
+  "gameVersion": "1.14.0",
   "dependsOn": {
-    "BSIPA": "^4.0.5"
+    "BSIPA": "^4.1.0",
+    "ChatCore" : "^2.0.0"
   },
   "features": []
 }
