@@ -1,6 +1,6 @@
 // Please use event listeners to run functions.
 document.addEventListener('onLoad', function (obj) {
-	//	 obj will be empty for chat widt
+	// obj will be empty for chat widt
 	// this will fire only once when the widget loads
 });
 
